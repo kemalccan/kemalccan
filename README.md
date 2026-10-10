@@ -7,11 +7,9 @@ GitHub'da sistem ve network altyapılarını optimize eden scriptler, iş süre�
     <img src="https://img.shields.io/badge/Web%20Sitesi-kemalcank.com-0F172A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web Sitesi" />
   </a>
 </p>
----
 
-🌐 Bana websitesi üzerinden ulaşabilirsiniz. **[kemalcank.com](https://kemalcank.com)**’da.
+📩 Bana websitesi üzerinden ulaşabilirsiniz. **[kemalcank.com](https://kemalcank.com)**’da.
 
----
 <table>
   <tbody>
 <tr>
