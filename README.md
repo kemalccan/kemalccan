@@ -11,7 +11,7 @@ GitHub'da sistem ve network altyapılarını optimize eden scriptler, iş süre�
   <tbody>
 <tr>
   <td valign="top" width="60%">
-
+<sub>Küçük Yazı</sub>
 - 🔭 I’m currently working on **System Administration, Network Infrastructures & ISO 27001 / KVKK Processes** 
 - 🌱 I’m currently learning **CCNA, Advanced Windows Server & Network Automation**
 - 🎧 I’m exploring **Harmonic Mixing, DJ Sets**
