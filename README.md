@@ -32,7 +32,7 @@ GitHub'da sistem ve network altyapılarını optimize eden scriptler, iş süre�
 ## Teşekkürler 
 
 - [@LuNiZz](https://github.com/LuNiZz) for [LuNiZz/siber-guvenlik-sss](https://github.com/LuNiZz/siber-guvenlik-sss)
-- [@davidbombal]([https://github.com/LuNiZz](https://github.com/davidbombal))
+- [@davidbombal](https://github.com/davidbombal)
 
 <div align="left">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
