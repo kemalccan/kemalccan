@@ -8,7 +8,7 @@ GitHub'da sistem ve network altyapılarını optimize eden scriptler, iş süre�
   </a>
 </p>
 
-📩 Bana websitesi üzerinden ulaşabilirsiniz. **[kemalcank.com](https://kemalcank.com)**’da.
+📩 Bana websitesi üzerinden ulaşabilirsiniz. **[kemalcank.com](https://kemalcank.com)**
 
 <table>
   <tbody>
