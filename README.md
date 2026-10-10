@@ -5,7 +5,7 @@ GitHub'da sistem ve network altyapılarını optimize eden scriptler, iş süre�
 
 📩 Bana websitesi üzerinden ulaşabilirsiniz. **[kemalcank.com](https://kemalcank.com)**
 
-⭐ Yararlı Scriptler İçin; **[Stars](https://github.com/kemalccan?tab=stars)** 
+⭐ Yararlı Scriptler İçin; **[https://github.com/kemalccan?tab=stars](https://github.com/kemalccan?tab=stars)** 
 
 <table>
   <tbody>
