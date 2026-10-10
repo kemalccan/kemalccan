@@ -1,15 +1,21 @@
-## <div align="left">Merhabalar, 👋 Ben kemalcan</div>
+## <div align="left">Merhabalar, 👋 Ben Kemalcan</div>
 
 GitHub'da sistem ve network altyapılarını optimize eden scriptler, iş süreçlerini hızlandıran uygulamalar ve araştırmalarımı paylaşıyorum. Gelişmeleri takipte kalın.
 
+<p align="left">
+  <a href="https://kemalcank.com" target="_blank">
+    <img src="https://img.shields.io/badge/Web%20Sitesi-kemalcank.com-0F172A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web Sitesi" />
+  </a>
+</p>
+
 <table>
- <tbody>
+  <tbody>
 <tr>
   <td valign="top" width="50%">
 
-- 🔭 I’m currently working on **SERVER-SYSTEM-NETWORK-CİSCO**  
-- 🌱 I’m currently learning **CCNA-WİNDOWS SERVER**  
-- 👯 I’m looking to collaborate on **Cisco**
+- 🔭 I’m currently working on **SERVER-SYSTEM-NETWORK-CISCO**  
+- 🌱 I’m currently learning **CCNA - WINDOWS SERVER**  
+- 👯 I’m looking to collaborate on **Cisco & Network Automation**  
 
   </td>
   <td valign="top" width="30%">
@@ -20,7 +26,7 @@ GitHub'da sistem ve network altyapılarını optimize eden scriptler, iş süre�
 </div>  
   </td>
   </tr>
- </tbody>
+  </tbody>
 </table>  
 
 ## Teşekkürler 
@@ -43,12 +49,8 @@ GitHub'da sistem ve network altyapılarını optimize eden scriptler, iş süre�
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
 </div>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kemalcankrlsn&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-
-
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kemalccan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=kemalcankrlsn&&style=flat-square" align="center" />
-</div>  
-  
+</div>
