@@ -10,7 +10,7 @@ GitHub'da sistem ve network altyapılarını optimize eden scriptler, iş süre�
 <table>
   <tbody>
 <tr>
-  <td valign="top" width="70%">
+  <td valign="top" width="60%">
 
 - 🔭 I’m currently working on **System Administration, Network Infrastructures & ISO 27001 / KVKK Processes**
 - 🌱 I’m currently learning **CCNA, Advanced Windows Server & Network Automation**
@@ -18,7 +18,7 @@ GitHub'da sistem ve network altyapılarını optimize eden scriptler, iş süre�
 - ⚡ Fun fact: **An inquisitive mind always looking for how things work under the hood.** 
 
   </td>
-  <td valign="top" width="30%">
+  <td valign="top" width="40%">
 <div align="right">
 
    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW13ZHpqeHIxZzg0YnlsbDNqZWF0dG1hcm1zOTlyM2JpOHRwaTNzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FspLvJQlQACXu/giphy.gif" align="center" style="width: 50%" />
