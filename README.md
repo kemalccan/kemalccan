@@ -13,9 +13,10 @@ GitHub'da sistem ve network altyapılarını optimize eden scriptler, iş süre�
 <tr>
   <td valign="top" width="50%">
 
-- 🔭 I’m currently working on **SERVER-SYSTEM-NETWORK-CISCO**  
-- 🌱 I’m currently learning **CCNA - WINDOWS SERVER**  
-- 👯 I’m looking to collaborate on **Cisco & Network Automation**  
+- 🔭 I’m currently working on **System Administration, Network Infrastructures & ISO 27001 / KVKK Processes**
+- 🌱 I’m currently learning **CCNA, Advanced Windows Server & Network Automation**
+- 🎧 I’m exploring **Harmonic Mixing, DJ Sets**
+- ⚡ Fun fact: **An inquisitive mind always looking for how things work under the hood.** 
 
   </td>
   <td valign="top" width="30%">
