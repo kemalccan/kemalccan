@@ -7,7 +7,7 @@ GitHub'da sistem ve network altyapılarını optimize eden scriptler, iş süre�
 
 ⭐ Yararlı Scriptler İçin; **[https://github.com/kemalccan?tab=stars](https://github.com/kemalccan?tab=stars)** 
 
-<table>
+<table style="border-collapse: collapse; border: none;">
   <tbody>
 <tr>
   <td valign="top" width="60%">
