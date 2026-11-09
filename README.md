@@ -1,4 +1,4 @@
-## <div align="left">Merhabalar, 👋 Ben Kemalcan</div>
+## <div align="left">Merhabalar, 👋 Ben kemalcan</div>
 
 GitHub'da sistem ve network altyapılarını optimize eden scriptler, iş süreçlerini hızlandıran uygulamalar ve araştırmalarımı paylaşıyorum. Gelişmeleri takipte kalın.
 
